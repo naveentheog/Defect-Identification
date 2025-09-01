@@ -9,6 +9,6 @@ It is lightweight, fast, and suitable for real-time applications.
 - MobileNet backbone (pretrained on ImageNet)
 - Image preprocessing and augmentation
 - Training, evaluation, and inference scripts
-- Model export for deployment (SavedModel / TFLite)
+
 
 
